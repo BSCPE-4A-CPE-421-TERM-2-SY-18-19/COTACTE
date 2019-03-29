@@ -1,0 +1,7 @@
+PC WON'T BOOT TO BIOS
+
+	- Maybe it is caused by a faulty ram, try to replace another RAM or
+	transfering it to another slot. Another causes are faulty PCI cards,
+	misplaced front panel connectors. PSU is not working properly, missing
+	power supply cables (check the 24 pin ATX cable and the 4 pin or 8 pin 
+	CPU connectors ) or the CPU is dead.
