@@ -1,0 +1,47 @@
+	In general, troubleshooting is the identification or diagnosis of trouble in the management flow
+of a corporation or a system caused by a failure of some kind. It is used to fix problems with hardware,
+software (sometimes both hardware and software) and many other issues. Troubleshooting process involves
+gathering information like symptoms that caused an undesired behavior or lacked of expected functionality.
+Continuing, the troubleshooter resort to the more systematic and logical process of verifying the expected
+function of parts of a system. Troubleshooting demands critical thinking rather than magical thinking.
+	So what I learned and what I noticed about troubleshooting computers for the whole semester is that
+it starts with the most general and often most obvious possible problems, and then narrow it down to more
+specific issues. This illustrated by the old saying “When you see hoof prints, look for horses, not zebras “.
+I also learned that troubleshooting is something we must have to do at some point but the good news is that,
+the more we do it, the more we learn and the better we get at fixing problems. Another thing that I learned
+is that troubleshooting on your own helps us to save money. For example, many of us are so reliant on our
+computers that when something goes wrong it is a serious problem already and call professionals to fixed it
+and pay- like the power going out and we thought it is dead but the cause is we do not plug it to a correct
+voltage supply. A simple problem but we take it as a serious one and cause our pockets to be empty before 
+but after taking this subject, things change.
+	Based on my experiences and learnings for the past six months and after taking this subject, I can tell
+you the common and basic trouble shooting techniques for almost all parts a of a pc and it’s peripheral 
+devices. If there is no power, try to check the cables and connections if they are properly plugged in. If
+your computer acts abnormally, try to restart it by using the restart option of the computer or by force like
+holding down the power button on the pc until it forcibly turns off. Always run a thorough virus scan and update
+your anti-virus regularly. When it comes to the malfunctioning of peripheral devices, one thing you can do is
+update your driver. Try to replace your suspected malfunctioning device or part with a same and exact one and
+connect it to check if some issues are the main cause of your diagnosed problem. By using this simple techniques,
+we can save time, money and effort.
+	“An ounce of prevention is a worth a pound of cure”. We can also apply this proverb to our computer 
+field. Computer maintenance is a practice of keeping computers in a good state. There are thorough maintenance
+checks needed on a computer to avoid unnecessary downtime and failure or loss of computer data.
+	To avoid problems and trouble shooting, we must have a procedure called maintenance plan. Maintenance plan
+includes checking computer log files, assessing hard disk space, examining computer folder permissions, 
+monitoring computer temperature, ensuring adequate redundancy of computer systems. Examining security features,
+installing security software patches, reading computer logs for security alerts or evidence of security hacking
+attempts, updating anti-virus software on all computers on the network, updating critical service packs and 
+software updates, performing regular comprehensive back-ups to ensure that vital data can be retrieved from 
+storage in the event of system failure and always clean your computer and peripheral devices and use correct
+and proper cleaning materials. 
+	I gained a lot of learnings in this subject because of our effective instructor. He did not simply teach 
+knowledge to his student but rather aims to arm his students with knowledge, skills, understanding and attitudes
+that will prepare his students for life-long learning. He is like a musician, he transfers knowledge to the minds
+of students just as a musician transmits tunes to the ears of audiences. He inspires each one of us. He provided 
+instructions to students of varying abilities while incorporating instructional objectives to the students. One 
+of his way of teaching I adore the most is maintaining a stress free environment to his students. He did not 
+pressure the students but instead encouraging them to be a productive one. He knew what the students really feel
+and he was not self- centered. He gave projects and gave enough deadline. He gave assignments to be searched and
+he helped us to understood what we searched by allowing us report in front of our classmates. He gave quizzes and
+major exams not a fill in the blank questions or definition of terms or book based questions but rather in an 
+essay form and ask about what we learned at that certain topic.
